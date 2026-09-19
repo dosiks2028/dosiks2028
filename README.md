@@ -50,36 +50,17 @@
 
 ---
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dossymzhan&show_icons=true&hide_border=true&bg_color=07110b&title_color=2fbf71&icon_color=2fbf71&text_color=8fe3b0&ring_color=2fbf71" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dossymzhan&layout=compact&hide_border=true&bg_color=07110b&title_color=2fbf71&text_color=8fe3b0" height="165" />
-
-</div>
-
----
 
 ## 🎵 Now Playing on Spotify
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=Doss_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=07110b&interchange=false&bar_color=2fbf71&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=Doss_UID&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ibsjxknkdaatetgo7dmw3a3dfq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dossymzhan/Dossymzhan/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2fbf71,50:0f2418,100:07110b&height=120&section=footer&reversal=false" width="100%"/>
